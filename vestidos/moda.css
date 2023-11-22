@@ -1,0 +1,44 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+
+body {
+	background-color: white;
+}
+.tesyo {
+	text-align: center;
+	font-family: comic sans ;
+	font-size: 20px ;
+}
+h1 {
+	text-align: center;
+	font-family: comic sans ;
+	font-size: 20px ;
+}
+h2	{
+	color: white;
+	text-align: center;
+	font-family: Baskerville Old Face;
+	font-size: 60px;
+}
+h3 {
+	text-align: center;
+	font-size: 40px; 
+	font-family: cursive;
+}
+h4	{
+	text-align: center;
+	font-size: 50px;
+	color: black;
+}
+h5	{
+	color: orange;
+	text-align: center;
+	font-size: 50px;
+}
+a {
+	text-align: center;
+    font-size: 20;
+}
